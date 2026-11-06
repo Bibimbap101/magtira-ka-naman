@@ -5,7 +5,7 @@
 In the Philippines, when someone leans on AI for everything, their friends tease them: *magtira ka naman ng tubig*, because every prompt supposedly drinks water from some data center. This browser extension turns that joke into a meter. It watches your **ChatGPT, Claude and Gemini** chats, estimates the tokens, and shows the water filling up, from a glass all the way down to the lost city of Atlantis.
 
 <p align="center">
-  <a href="https://github.com/Bibimbap67/magtira-ka-naman/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20the%20ZIP-2f8fe0?style=for-the-badge" alt="Download the ZIP"></a><br>
+  <a href="https://github.com/Bibimbap101/magtira-ka-naman/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20the%20ZIP-2f8fe0?style=for-the-badge" alt="Download the ZIP"></a><br>
   <a href="#download-and-set-up">How to install it (about a minute)</a>
 </p>
 
@@ -65,7 +65,7 @@ It's a joke project with real (but rough) numbers. Nothing you type ever leaves 
 Works in **Brave, Chrome and Edge** (any Chromium browser). No account, no keys, nothing to sign up for. It isn't on the Chrome Web Store yet, and browsers don't allow a one-click install from outside the store, so you load it yourself. It takes about a minute.
 
 <p align="center">
-  <a href="https://github.com/Bibimbap67/magtira-ka-naman/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20the%20ZIP-2f8fe0?style=for-the-badge" alt="Download the ZIP"></a>
+  <a href="https://github.com/Bibimbap101/magtira-ka-naman/archive/refs/heads/main.zip"><img src="https://img.shields.io/badge/Download%20the%20ZIP-2f8fe0?style=for-the-badge" alt="Download the ZIP"></a>
 </p>
 
 ![Installing it in Brave: Code → Download ZIP, Extract all, Brave menu → Extensions, Load unpacked, pick the folder](screenshots/install.gif)
@@ -76,7 +76,7 @@ Works in **Brave, Chrome and Edge** (any Chromium browser). No account, no keys,
    - **ZIP (easiest):** click **Download the ZIP** above, then right-click the file → **Extract all**. Put it somewhere you'll keep it (e.g. your Documents).
    - **Git:**
      ```bash
-     git clone https://github.com/Bibimbap67/magtira-ka-naman.git
+     git clone https://github.com/Bibimbap101/magtira-ka-naman.git
      ```
 2. **Open the extensions page.** Type one of these in the address bar:
    - Brave: `brave://extensions`

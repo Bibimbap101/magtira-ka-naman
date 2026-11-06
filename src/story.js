@@ -140,7 +140,7 @@
     });
     ctx.fillStyle = '#cfe7fb';
     ctx.font = `500 28px ${FONT}`;
-    ctx.fillText('github.com/Bibimbap67/magtira-ka-naman', W / 2, 1860);
+    ctx.fillText('github.com/Bibimbap101/magtira-ka-naman', W / 2, 1860);
 
     return new Promise((resolve) => canvas.toBlob(resolve, 'image/png'));
   }
